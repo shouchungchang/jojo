@@ -16,7 +16,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		55CF98D2222F9FAF005DC6EE /* a.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = a.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		55AE130D222FD07300CA1CB8 /* a copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; name = "a copy-Info.plist"; path = "../../../user08/Desktop/a/a copy-Info.plist"; sourceTree = SOURCE_ROOT; };
+		55CF98D2222F9FAF005DC6EE /* スターダストクルセイダース.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "スターダストクルセイダース.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		55CF98D5222F9FAF005DC6EE /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		55CF98D6222F9FAF005DC6EE /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		55CF98D8222F9FAF005DC6EE /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
@@ -44,13 +45,14 @@
 			children = (
 				55CF98D4222F9FAF005DC6EE /* a */,
 				55CF98D3222F9FAF005DC6EE /* Products */,
+				55AE130D222FD07300CA1CB8 /* a copy-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
 		55CF98D3222F9FAF005DC6EE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				55CF98D2222F9FAF005DC6EE /* a.app */,
+				55CF98D2222F9FAF005DC6EE /* スターダストクルセイダース.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -74,9 +76,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		55CF98D1222F9FAF005DC6EE /* a */ = {
+		55CF98D1222F9FAF005DC6EE /* スターダストクルセイダース */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 55CF98E8222F9FB0005DC6EE /* Build configuration list for PBXNativeTarget "a" */;
+			buildConfigurationList = 55CF98E8222F9FB0005DC6EE /* Build configuration list for PBXNativeTarget "スターダストクルセイダース" */;
 			buildPhases = (
 				55CF98CE222F9FAF005DC6EE /* Sources */,
 				55CF98CF222F9FAF005DC6EE /* Frameworks */,
@@ -86,9 +88,9 @@
 			);
 			dependencies = (
 			);
-			name = a;
+			name = "スターダストクルセイダース";
 			productName = a;
-			productReference = 55CF98D2222F9FAF005DC6EE /* a.app */;
+			productReference = 55CF98D2222F9FAF005DC6EE /* スターダストクルセイダース.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -118,7 +120,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				55CF98D1222F9FAF005DC6EE /* a */,
+				55CF98D1222F9FAF005DC6EE /* スターダストクルセイダース */,
 			);
 		};
 /* End PBXProject section */
@@ -325,7 +327,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		55CF98E8222F9FB0005DC6EE /* Build configuration list for PBXNativeTarget "a" */ = {
+		55CF98E8222F9FB0005DC6EE /* Build configuration list for PBXNativeTarget "スターダストクルセイダース" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				55CF98E9222F9FB0005DC6EE /* Debug */,
